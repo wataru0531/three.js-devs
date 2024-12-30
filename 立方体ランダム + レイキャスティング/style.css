@@ -1,0 +1,29 @@
+
+
+body{
+  margin: 0;
+  height: 100vh;
+}
+
+
+
+.fv__block{
+  /* width: 100%; */
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+
+}
+
+.fv__title{
+  /* width: 100%; */
+  font-weight: bold;
+  font-size: 80px;
+}
+
+
+.fv__tags{
+  color: #FFFFFF;
+  background: #000000;
+}
